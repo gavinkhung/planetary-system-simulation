@@ -25,5 +25,7 @@ Start Jupyter
 ```
 
 ## Program Output
+Exoplanet System Simulation
 ![Exoplanet Program](./imgs/exoplanet-output.png)
+Solar System Simulation
 ![Solar System Program](./imgs/solar-system-output.png)
