@@ -1,8 +1,8 @@
 # Planetary System Simulation
 Orbit simulation of stars, planets, and asteroids using Astropy, Astroquery, Rebound, and Matplotlib
 
-## Planetary Systems
-Systems
+## About
+Planetary systems consist of planets and satellites, such as asteroids and comets, orbiting a star system. 
 
 ## Data Sources
 
@@ -25,7 +25,9 @@ Start Jupyter
 ```
 
 ## Program Output
-Exoplanet System Simulation
+
+### Exoplanet System Simulation
 ![Exoplanet Program](./imgs/exoplanet-output.png)
-Solar System Simulation
+
+### Solar System Simulation
 ![Solar System Program](./imgs/solar-system-output.png)
