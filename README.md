@@ -1,5 +1,5 @@
 # Planetary System Simulation
-Orbit simulation of stars, planets, and comets using Astroquery, Rebound, and Matplotlib
+Orbit simulation of stars, planets, and asteroids using Astropy, Astroquery, Rebound, and Matplotlib
 
 ## Planetary Systems
 Systems
@@ -9,6 +9,7 @@ Systems
 The notebooks query data from the following catalogs:
 - [Open Exoplanet Catalogue](http://openexoplanetcatalogue.com/)
 - [JPL HORIZONS System](https://ssd.jpl.nasa.gov/?horizons)
+- [IAU Minor Planet Center](https://www.minorplanetcenter.net/)
 
 ## Run Locally
 
